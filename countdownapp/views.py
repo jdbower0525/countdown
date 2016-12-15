@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("You will likely be the only one who sees this page...")
+    return render(request, 'index.html')

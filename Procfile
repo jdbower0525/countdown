@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi —-log-file -
+web: gunicorn gradcountdownproj.wsgi —-log-file -

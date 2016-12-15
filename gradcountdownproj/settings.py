@@ -26,7 +26,7 @@ SECRET_KEY = '3zwk%(+j8c4$tr4z6j&d$91n!x@vz%)e-u3ef#$_n25xe%jckj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['0.0.0.0', 'gentle-stream-63499.herokuapp.com']
 
 
 # Application definition
